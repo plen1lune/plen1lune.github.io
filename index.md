@@ -24,8 +24,9 @@ I am a master student in **Computer Science** at University of Virginia where I 
 
 ## Research Interests
 
-- Trustworthy Reinforcement Learning
-- Trustworthy and Efficient Machine Learning
+- Robust Reinforcement Learning
+- Bi-level Optimization and Analysis
+- Applications of Reinforcement Learning
 
 
 <br>
