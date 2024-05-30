@@ -1,19 +1,19 @@
-title: Licheng Luo
+title: Tiejin Chen
 # tagline: Two roads diverged in woods, I took the one less traveled by.
 description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://plen1lune.github.io
+url: https://tiejin98.github.io
 
 # Owner/author information
 owner:
-  name: Licheng Luo
+  name: Tiejin Chen
   avatar: tiejin-bio.png
 #  bio:
-  email: hvg7cb@virginia.edu
+  email: tiejin@asu.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   #twitter: 
   # facebook: 
-  github: plen1lune
+  github: tiejin98
   linkedin: 铁今-tiejin-chen-陈-1ba97a169
   scholar: https://scholar.google.com/citations?user=N8jJKQ0AAAAJ&hl=en&oi=ao
   # instagram: 
@@ -77,7 +77,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: Licheng
+  shortname: tiejin
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
