@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="llc.png" class="floatpic" width="360" height="480">
+<!-- <img src="llc.png" class="floatpic" width="360" height="480"> -->
 
 Here is **Licheng Luo (罗立城)**.
 I am a master student in **Computer Science** at University of Virginia where I am fortunately advised by Prof. [Shangtong Zhang](https://shangtongzhang.github.io/). Prior to this, I obtained my bachelor's degree in Electronic Engineering from Huazhong University of Science and Technology, where I luckily advised by Prof. [Xin Yang](https://sites.google.com/view/xinyang/home). You can find my CV [here](https://tiejin98.github.io/file/Tiejin_CV_031224.pdf).
@@ -13,7 +13,7 @@ I am a master student in **Computer Science** at University of Virginia where I 
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Spring/Fall. Contact me if you have any leads!**
 
 - **Aug 2023 - January 2025:** University of Virginia (Ms)
 - **Sep 2019 - June 2023:** Huazhong University of Science and Technology (BSc)
