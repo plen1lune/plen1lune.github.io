@@ -7,7 +7,7 @@ layout: page
 <!-- <img src="https://plen1lune.github.io/llc.png" class="floatpic" width="360" height="480"> -->
 
 Here is **Tiejin Chen (陈铁今)**.
-I am a first year Ph.D. student in **Computer Science** at Arizona State University where I am supervised by Prof. [Hua Wei](https://www.public.asu.edu/~hwei27/). Prior to this, I obtained my bachelor's degree in statistics from Sichuan University in 2020 and my master's degree in applied statistics from the University of Michigan, Ann Arbor in 2023. You can find my CV [here](https://tiejin98.github.io/file/Tiejin_CV_031224.pdf).
+I am a master student in **Computer Science** at University of Virginia where I am fortunately advised by Prof. [Shangtong Zhang](https://shangtongzhang.github.io/). Prior to this, I obtained my bachelor's degree in Electronic Engineering from Huazhong University of Science and Technology, where I luckily advised by Prof. [Xin Yang](https://sites.google.com/view/xinyang/home). You can find my CV [here](https://tiejin98.github.io/file/Tiejin_CV_031224.pdf).
 
 <br>
 
