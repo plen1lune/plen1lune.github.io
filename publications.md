@@ -8,7 +8,7 @@ Lastest Update: 03/12/2024&nbsp;
 
 ## Working Manuscript 
 
-- [Policy Optimization in Robust Markov Decision Processes with Transition Gradient Theorem]
+- Policy Optimization in Robust Markov Decision Processes with Transition Gradient Theorem
 <br>**Licheng Luo**, Shangtong Zhang<br>
 
 ## Journal Paper
