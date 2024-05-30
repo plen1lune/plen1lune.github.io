@@ -15,8 +15,8 @@ I am a master student in **Computer Science** at University of Virginia where I 
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Spring/Fall. Contact me if you have any leads!**
 
-- **Aug 2023 - January 2025:** University of Virginia (Ms)
-- **Sep 2019 - June 2023:** Huazhong University of Science and Technology (BSc)
+- **Aug 2023 - January 2025:** University of Virginia (MSCS)
+- **Sep 2019 - June 2023:** Huazhong University of Science and Technology (BSEE)
 
 <br>
 
