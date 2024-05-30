@@ -6,18 +6,6 @@ title: Hobbies
 
 # Hobbies
 
-## Mystery Novel
-
-<div class="third">
-<img src="/images/mn1.jpg">
-<img src="/images/mn2.jpg">
-<img src="/images/mn3.jpg">
-</div>
-
-I became a big fan of mystery novels when I was in high school. They attracted me with seemingly impossible mysteries and surprising answers to those mysteries. Moreover, the strict logic behind the answers and the incredible feeling when I solved a mystery motivated me to pursue my PhD. My top-3 favorite mystery novel writers are Ellery Queen, Shinzou Mitsuda (三津田信三), and Yutaka Maya (麻耶雄嵩).
-<br>
-In 2017, I attended an activity discussing Agatha Christie's mystery novels in Chengdu. The activity was hosted by a Chinese mystery novel writer, Yehua Lu (陆烨华). The three images above show the presentation title given by Yehua Lu and his appreciation for the classic mystery novels.
-
 <!-- <div class="third">
 <img src="/images/prelection1.JPG">
 <img src="/images/speech1.JPG">
@@ -28,16 +16,6 @@ In 2017, I attended an activity discussing Agatha Christie's mystery novels in C
 [a fantastic speech]:https://youtu.be/Dzx84KpGNoE
 [best universities in my hometown]:https://www.fzu.edu.cn/ -->
 
-
-
-## Movie
-
-If mystery novels provide me with a sense of rational thinking, then movies offer me an emotional experience. I appreciate not only the stories in moives (screenplay) but also how moives tell a story (edit and cinematography). I used to go to theater more than 40 times in one year. I also enjoy predicting the Oscar winners every year. You can find more information on my [blogs](https://tiejin98.github.io/blogs/).
-
-
-## Other Hobbies
-
-I derive enjoyment from all forms of story-based entertainment, ranging from video games and animations to TV series. However, I've noticed that these activities require more time. Therefore, I seldom engage in these activities right now. Some of my favorite games and animations are Puella Magi Madoka Magica, Red Dead Redemption 2, and Phoenix Wright: Ace Attorney.
 
 
 ## Chat with me
