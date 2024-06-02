@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.17)  30 MAY 2024 20:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.17)  2 JUN 2024 00:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -541,8 +541,7 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'english'.
-
-No file Your_Resume.aux.
+ (./Your_Resume.aux)
 \openout1 = `Your_Resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
@@ -563,7 +562,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
-(/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count412
 \scratchdimen=\dimen175
@@ -583,6 +582,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring OFF on input line 20.
+ (./Your_Resume.out) (./Your_Resume.out)
 \@outlinefile=\write4
 \openout4 = `Your_Resume.out'.
 
@@ -620,43 +620,29 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 9.
 ) (./Resume Sections/Job Related Training.tex) (./Resume Sections/Volunteer Experience.tex) (./Resume Sections/Professional Publications.tex) (./Resume Sections/Affiliations.tex) (./Resume Sections/Additional Information.tex) [1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./Your_Resume.aux)
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] (./Your_Resume.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
-
-Package rerunfilecheck Warning: File `Your_Resume.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Your_Resume.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D67A28813A5E8ADE3314413B2542B05F;815.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                Your_Resume
-(biblatex)                and rerun LaTeX afterwards.
-
+Package rerunfilecheck Info: File `Your_Resume.out' has not changed.
+(rerunfilecheck)             Checksum: D67A28813A5E8ADE3314413B2542B05F;815.
 Package logreq Info: Writing requests to 'Your_Resume.run.xml'.
 \openout1 = `Your_Resume.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19795 strings out of 476025
- 350295 string characters out of 5790017
- 1872388 words of memory out of 5000000
- 39981 multiletter control sequences out of 15000+600000
+ 19809 strings out of 476025
+ 350465 string characters out of 5790017
+ 1877388 words of memory out of 5000000
+ 39988 multiletter control sequences out of 15000+600000
  517372 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  101i,11n,104p,1132b,1729s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Your_Resume.pdf (1 page, 114019 bytes).
+Output written on Your_Resume.pdf (2 pages, 120783 bytes).
 PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
- 8 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 87 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
+ 9 named destinations out of 1000 (max. 500000)
+ 49 words of extra memory for PDF output out of 10000 (max. 10000000)
 
