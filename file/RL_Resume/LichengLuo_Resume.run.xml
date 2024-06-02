@@ -41,13 +41,13 @@
   >
 ]>
 <requests version="1.0">
-  <internal package="biblatex" priority="9" active="0">
+  <internal package="biblatex" priority="9" active="1">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>Your_Resume.bcf</file>
+      <file>LichengLuo_Resume.bcf</file>
     </provides>
     <requires type="dynamic">
-      <file>Your_Resume.bbl</file>
+      <file>LichengLuo_Resume.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
@@ -60,23 +60,23 @@
       <file>english.lbx</file>
     </requires>
   </internal>
-  <external package="biblatex" priority="5" active="0">
+  <external package="biblatex" priority="5" active="1">
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
-      <infile>Your_Resume</infile>
+      <infile>LichengLuo_Resume</infile>
     </cmdline>
     <input>
-      <file>Your_Resume.bcf</file>
+      <file>LichengLuo_Resume.bcf</file>
     </input>
     <output>
-      <file>Your_Resume.bbl</file>
+      <file>LichengLuo_Resume.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>Your_Resume.bbl</file>
+      <file>LichengLuo_Resume.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>Your_Resume.bcf</file>
+      <file>LichengLuo_Resume.bcf</file>
     </requires>
   </external>
 </requests>

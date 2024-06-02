@@ -9,13 +9,12 @@ owner:
   name: Licheng Luo
   avatar: tiejin-bio.png
 #  bio:
-  email: tiejin@asu.edu
+  email: hvg7cb@virginia.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   #twitter: 
   # facebook: 
-  github: tiejin98
+  github: plen1lune
   linkedin: 铁今-tiejin-chen-陈-1ba97a169
-  scholar: https://scholar.google.com/citations?user=N8jJKQ0AAAAJ&hl=en&oi=ao
   # instagram: 
   # lastfm:
   # tumblr:
@@ -35,7 +34,7 @@ links:
   - title: About Me
     url: /
   - title: Resume
-    url: /file/RL_Resume/Your_Resume.pdf
+    url: /file/RL_Resume/LichengLuo_Resume.pdf
   - title: Publications
     url: /publications/
   # - title: Awards
