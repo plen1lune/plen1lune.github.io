@@ -26,7 +26,7 @@ I am a master student in **Computer Science** at University of Virginia where I 
 
 - Robust Reinforcement Learning
 - Bi-level Optimization and Analysis
-- All kinds of Applications of Machine Learning that benefit Human Beings
+- All kinds of Applications of Machine Learning that Benefit Human Beings
 
 <br>
 
