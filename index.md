@@ -13,7 +13,7 @@ I am a master student in **Computer Science** at University of Virginia where I 
 
 ## Academic Background
 
-**<font color='red'>[Open to Opportunities]</font> I am looking for PhD to start in 2025 Spring/Fall. Contact me if you have any leads!**
+**<font color='red'>[Open to Opportunities]</font> I am looking for PhD to start in 2025 Spring/Fall. Drop me a line if you have any leads!**
 
 - **Aug 2023 - January 2025:** University of Virginia (MSCS)
 - **Sep 2019 - June 2023:** Huazhong University of Science and Technology (BSEE)
@@ -32,7 +32,8 @@ I am a master student in **Computer Science** at University of Virginia where I 
 
 ---
 
-<!-- ## News and Updates
+## Contacts
 
-- **Aug 2023：**Exicted to .
-- If you are interested in my works, please feel free to book an [[online talk with me](https://calendly.com/lancecai/meet-with-lance)]. -->
+- **Personal Email:** lichengluo2001@gmail.com
+- **Academic Email:** hvg7cb@virginia.edu
+  
