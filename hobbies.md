@@ -17,6 +17,10 @@ title: Hobbies
 [best universities in my hometown]:https://www.fzu.edu.cn/ -->
 
 
+## Sports
+Basketball (medium-level), Table Tennis (OK-level), Badminton (entry-level)
+
+Taekwondo (Black belt since young age), Swimming
 
 ## Chat with me
 If you want to chat with me, feel free to send an email to arrange a suitable time(and what you want to talk).
