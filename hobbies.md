@@ -18,7 +18,7 @@ title: Hobbies
 
 
 ## Sports
-Basketball (medium-level), Table Tennis (OK-level), Badminton (entry-level)
+Basketball (medium-level), Table Tennis (OK-level), Badminton (entry-level)  
 
 Taekwondo (Black belt since young age), Swimming
 
