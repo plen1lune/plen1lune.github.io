@@ -25,7 +25,7 @@ I am a master student in **Computer Science** at University of Virginia where I 
 ## Research Interests
 
 - Robust Reinforcement Learning
-- Bi-level Optimization and Analysis
+- Bi-level Optimization and Analysis (learning)
 - All kinds of Applications of Machine Learning that Benefit Human Beings
 
 <br>
