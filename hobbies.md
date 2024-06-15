@@ -21,6 +21,7 @@ title: Hobbies
 Basketball (medium-level), Table Tennis (OK-level), Badminton (entry-level)  
 
 Taekwondo (Black belt since young age), Swimming
+<img src="/images/tqd.png">
 
 ## Chat with me
 If you want to chat with me, feel free to send an email to arrange a suitable time(and what you want to talk).
