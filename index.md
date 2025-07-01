@@ -15,7 +15,7 @@ I am a PhD student in **Mechanical Engineering** at the University of California
 ## Academic Background
 
 **<font color='red'>[Open to Opportunities]</font> I am looking for Internships in 2025 Spring/Fall. Drop me a line if you have any leads!**
-- **January 2025 - present:** University of California, Riverside (PhD Robotics & ME)
+- **January 2025 - present:** University of California, Riverside (PhD in Robotics & ME, in progress)
 - **Aug 2023 - January 2025:** University of Virginia (MSCS, with Honors)
 - **Sep 2019 - June 2023:** Huazhong University of Science and Technology (BSEE, with Honors)
 
