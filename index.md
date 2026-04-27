@@ -5,7 +5,7 @@ layout: page
 # About Me
 
 Here is **Licheng Luo (罗立城)**.
-I am a PhD student in **Mechanical Engineering** at the University of California, Riverside, fortunately advised by [Prof. Mingyu Cai](https://sites.google.com/view/ucr-real/home). Previously, I received my M.S. in Computer Science from the University of Virginia (advised by [Prof. Shangtong Zhang](https://shangtongzhang.github.io/)), and my B.Eng. in Electronic Information Engineering from Huazhong University of Science and Technology (advised by [Prof. Xin Yang](https://sites.google.com/view/xinyang/home)). You can find my CV [here](https://plen1lune.github.io/file/RL_Resume/LichengLuo_Resume.pdf).
+I am a second-year PhD student in **Mechanical Engineering** at the University of California, Riverside, fortunately advised by [Prof. Mingyu Cai](https://sites.google.com/view/ucr-real/home). Previously, I received my M.S. in Computer Science from the University of Virginia (advised by [Prof. Shangtong Zhang](https://shangtongzhang.github.io/)), and my B.Eng. in Electronic Information Engineering from Huazhong University of Science and Technology (advised by [Prof. Xin Yang](https://sites.google.com/view/xinyang/home)). You can find my CV [here](https://plen1lune.github.io/file/RL_Resume/LichengLuo_Resume.pdf).
 
 My research lies at the intersection of **robot learning, formal methods, and motion planning**. I am especially interested in making symbolic specifications — particularly **spatio-temporal logic** — *differentiable*, so that geometric and temporal task structure can be plugged directly into reinforcement learning, imitation learning, and policy evaluation pipelines.
 
