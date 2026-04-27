@@ -16,7 +16,7 @@ For the most up-to-date list, please see my [Google Scholar](https://scholar.goo
 
 ## Preprints
 
-- **Tensorized Monitoring of Differentiable Spatio-Temporal Logic for Robot Manipulation**<br>
+- **Parallel Monitoring of Differentiable Spatio-Temporal Logic for Robot Manipulation**<br>
   **Licheng Luo**, Kaier Liang, Cristian Ioan Vasile, Mingyu Cai<br>
   *Manuscript on arXiv*, 2026.
 
