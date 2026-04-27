@@ -9,7 +9,7 @@ owner:
   name: Licheng Luo
   avatar: tiejin-bio.png
 #  bio:
-  email: hvg7cb@virginia.edu
+  email: lichengl@ucr.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   #twitter: 
   # facebook: 
@@ -39,14 +39,10 @@ links:
     url: /file/RL_Resume/LichengLuo_Resume.pdf
   - title: Publications
     url: /publications/
-  # - title: Awards
-  #   url: /awards/
-  # - title: Fundings
-  #   url: /fundings/
+  - title: Honors
+    url: /honors/
   - title: Hobbies
     url: /hobbies/
-  # - title: Blogs
-  #   url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: America/Phoenix
