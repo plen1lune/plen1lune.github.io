@@ -11,21 +11,21 @@ For the most up-to-date list, please see my [Google Scholar](https://scholar.goo
 ## Conference Papers
 
 - **Time-aware Motion Planning in Dynamic Environments with Conformal Prediction**<br>
-  Kaiyuan Liang, **Licheng Luo**, Yifan Wang, Mingyu Cai, Cristian Ioan Vasile<br>
+  Kaier Liang, **Licheng Luo**, Yixuan Wang, Mingyu Cai, Cristian Ioan Vasile<br>
   *Learning for Dynamics and Control (**L4DC**)*, 2026. &nbsp; <span style="color:#b22222;"><b>Oral Presentation</b></span>.
 
 ## Preprints
 
 - **Tensorized Monitoring of Differentiable Spatio-Temporal Logic for Robot Manipulation**<br>
-  **Licheng Luo**, Kaiyuan Liang, Cristian Ioan Vasile, Mingyu Cai<br>
+  **Licheng Luo**, Kaier Liang, Cristian Ioan Vasile, Mingyu Cai<br>
   *Manuscript on arXiv*, 2026.
 
 - **Differentiable SpaTiaL: Symbolic Learning and Reasoning with Geometric Temporal Logic for Manipulation Tasks**<br>
-  **Licheng Luo**, Kaiyuan Liang, Cristian Ioan Vasile, Mingyu Cai<br>
+  **Licheng Luo**, Kaier Liang, Cristian Ioan Vasile, Mingyu Cai<br>
   *Manuscript*, 2026.
 
 - **NL2SpaTiaL: Generating Geometric Spatio-Temporal Logic Specifications from Natural Language for Manipulation Tasks**<br>
-  **Licheng Luo**, Yifei Xia, Kaiyuan Liang, Mingyu Cai<br>
+  **Licheng Luo**, Yu Xia, Kaier Liang, Mingyu Cai<br>
   *Manuscript*, 2026.
 
 - **Bridging Deep Reinforcement Learning and Motion Planning for Model-Free Navigation in Cluttered Environments**<br>
@@ -33,7 +33,7 @@ For the most up-to-date list, please see my [Google Scholar](https://scholar.goo
   *Manuscript on arXiv*, 2025.
 
 - **Deadlock-Free Hybrid RL-MAPF Framework for Zero-Shot Multi-Robot Navigation**<br>
-  Hanlin Wang, **Licheng Luo**, Yiannis Kantaros, Bruno Sinopoli, Mingyu Cai<br>
+  Haoyi Wang, **Licheng Luo**, Yiannis Kantaros, Bruno Sinopoli, Mingyu Cai<br>
   *Manuscript on arXiv*, 2025.
 
 ## Journal Papers
