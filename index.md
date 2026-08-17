@@ -35,6 +35,7 @@ My research lies at the intersection of **robot learning, formal methods, and mo
 
 ## News
 
+- **2026.06** &nbsp; Two papers — **Differentiable SpaTiaL** & **NL2SpaTiaL** — accepted to **IROS 2026**! We are building **SpaTiaL** into a general foundation for robots that understand, ground, and act on human intent — from natural language to spatio-temporal structure to motion. See you in Pittsburgh!
 - **2026.04** &nbsp; *Time-aware Motion Planning with Conformal Prediction* selected for an **oral talk at L4DC 2026** — see you in LA this June!
 - **2026.03** &nbsp; Cooking up the next round of work on **Differentiable SpaTiaL** & **NL2SpaTiaL** — robots that *understand* spatial-temporal goals from natural language. Stay tuned.
 - **2025.01** &nbsp; Officially started my PhD at UC Riverside with [REAL Lab](https://sites.google.com/view/ucr-real/home). Loving the desert sun and the robots.
