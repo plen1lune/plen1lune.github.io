@@ -1,80 +1,48 @@
 title: Licheng Luo
-# tagline: Two roads diverged in woods, I took the one less traveled by.
-description: Two roads diverged in woods, I took the one less traveled by.
-#Comment out url when working locally to resolve base urls correctly
+description: Licheng Luo — PhD student at UC Riverside working on robot learning, formal methods, and motion planning.
 url: https://plen1lune.github.io
+baseurl: ""
 
-# Owner/author information
 owner:
   name: Licheng Luo
-  avatar: licheng-bio.png
-#  bio:
+  name_zh: 罗立城
   email: lichengl@ucr.edu
-  # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  #twitter: 
-  # facebook: 
   github: plen1lune
   linkedin: licheng-luo-a47854284
-  # google_scholar:
   scholar: https://scholar.google.com/citations?user=BsZxB3wAAAAJ&hl=en
-  # instagram: 
-  # lastfm:
-  # tumblr:
-  # For Google Authorship https://plus.google.com/authorship
-  # google_plus:
+  cv: /file/RL_Resume/LichengLuo_Resume.pdf
 
-# Analytics and webmaster tools stuff goes here
-# https://search.google.com/search-console/ownership
-google_verify: "G-9266B0MPLY"
-
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-# bing_verify: ""
-
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: About Me
+nav:
+  - title: Home
     url: /
-  - title: Resume
-    url: /file/RL_Resume/LichengLuo_Resume.pdf
   - title: Publications
     url: /publications/
   - title: Honors
     url: /honors/
   - title: Hobbies
     url: /hobbies/
+  - title: CV
+    url: /file/RL_Resume/LichengLuo_Resume.pdf
+    external: true
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: America/Phoenix
-future: true
-highlighter: rouge
-# markdown: kramdown
-# markdown: redcarpet
-# pygments: true
-
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
-
-
+timezone: America/Los_Angeles
+markdown: kramdown
 kramdown:
+  input: GFM
   auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
 
-  # coderay:
-  #   coderay_line_numbers:
-  #   coderay_line_numbers_start: 1
-  #   coderay_tab_width: 4
-  #   coderay_bold_every: 10
-  #   coderay_css: class
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
 
-
-# disqus settings:
-disqus:
-  shortname: tiejin
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - file/RL_Resume/*.tex
+  - file/RL_Resume/*.cls
+  - file/RL_Resume/*.bib
+  - "file/RL_Resume/Resume Sections"

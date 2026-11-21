@@ -1,0 +1,21 @@
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+.DS_Store
+.idea/
+Gemfile.lock
+vendor/
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.bcf
+*.run.xml
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.toc
+*.bbl
+*.blg

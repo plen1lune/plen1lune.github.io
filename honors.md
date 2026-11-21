@@ -1,20 +1,28 @@
 ---
-layout: page
-permalink: /honors/index.html
-title: Honors & Service
+title: Honors
+permalink: /honors/
+description: Honors, teaching, and skills of Licheng Luo.
 ---
+
+# Honors & service
 
 ## Honors
 
-- **Graduated with Honors**, Huazhong University of Science and Technology, 2023.
-- **Merit-Based Academic Scholarship**, Huazhong University of Science and Technology, 2019 – 2023.
+<ul class="kv">
+<li><span>2023</span><span>Graduated with Honors, Huazhong University of Science and Technology</span></li>
+<li><span>2019 – 2023</span><span>Merit-Based Academic Scholarship, Huazhong University of Science and Technology</span></li>
+</ul>
 
 ## Teaching
 
-- **Teaching Assistant**, *ME018B*, University of California, Riverside — Spring 2026.
-- **Teaching Assistant**, *ME145*, University of California, Riverside — Fall 2025.
+<ul class="kv">
+<li><span>Spring 2026</span><span>Teaching Assistant, ME018B, University of California, Riverside</span></li>
+<li><span>Fall 2025</span><span>Teaching Assistant, ME145, University of California, Riverside</span></li>
+</ul>
 
 ## Skills
 
-- **Programming:** Python, C++, MATLAB, LaTeX, Bash
-- **Frameworks & Tools:** PyTorch, ROS, Unity, PyBullet, Isaac Gym, Stable-Baselines3, Docker, Linux, WandB
+<ul class="kv">
+<li><span>programming</span><span>Python, C++, MATLAB, LaTeX, Bash</span></li>
+<li><span>frameworks & tools</span><span>PyTorch, ROS, Unity, PyBullet, Isaac Gym, Stable-Baselines3, Docker, Linux, WandB</span></li>
+</ul>

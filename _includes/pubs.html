@@ -1,0 +1,20 @@
+{% assign pubs = site.data.publications %}
+{% if include.selected %}{% assign pubs = pubs | where: "selected", true %}{% endif %}
+{% if include.category %}{% assign pubs = pubs | where: "category", include.category %}{% endif %}
+<ol class="timeline pubs">
+{% for p in pubs %}
+  <li class="timeline-item{% if p.featured %} featured{% endif %}">
+    <div class="card">
+      <div class="card-head">
+        <span class="card-title">{% if p.url %}<a href="{{ p.url }}" target="_blank" rel="noopener">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}</span>
+        <time class="card-date">{{ p.year }}</time>
+      </div>
+      <div class="card-body">
+        <p class="authors">{{ p.authors | replace: 'Licheng Luo', '<strong>Licheng Luo</strong>' }}</p>
+        <p class="venue">{{ p.venue }}{% if p.note %} <span class="note">· {{ p.note }}</span>{% endif %}</p>
+        {% if p.links %}<p class="links">{% for l in p.links %}<a href="{{ l.url }}" target="_blank" rel="noopener">[{{ l.label }}]</a> {% endfor %}</p>{% endif %}
+      </div>
+    </div>
+  </li>
+{% endfor %}
+</ol>

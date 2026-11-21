@@ -1,0 +1,70 @@
+# category: conference | journal | preprint | thesis | other
+# selected: true shows the item on the home page.
+
+- title: "Differentiable SpaTiaL: Symbolic Learning and Reasoning with Geometric Temporal Logic for Manipulation Tasks"
+  authors: "Licheng Luo, Kaier Liang, Cristian Ioan Vasile, Mingyu Cai"
+  venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
+  year: 2026
+  category: conference
+  selected: true
+  featured: true
+
+- title: "NL2SpaTiaL: Generating Geometric Spatio-Temporal Logic Specifications from Natural Language for Manipulation Tasks"
+  authors: "Licheng Luo, Yu Xia, Kaier Liang, Mingyu Cai"
+  venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
+  year: 2026
+  category: conference
+  selected: true
+
+- title: "Time-aware Motion Planning in Dynamic Environments with Conformal Prediction"
+  authors: "Kaier Liang, Licheng Luo, Yixuan Wang, Mingyu Cai, Cristian Ioan Vasile"
+  venue: "Learning for Dynamics and Control (L4DC)"
+  year: 2026
+  category: conference
+  note: "Oral"
+  selected: true
+
+- title: "Parallel Monitoring of Differentiable Spatio-Temporal Logic for Robot Manipulation"
+  authors: "Licheng Luo, Kaier Liang, Cristian Ioan Vasile, Mingyu Cai"
+  venue: "arXiv preprint"
+  year: 2026
+  category: preprint
+
+- title: "Bridging Deep Reinforcement Learning and Motion Planning for Model-Free Navigation in Cluttered Environments"
+  authors: "Licheng Luo, Mingyu Cai"
+  venue: "arXiv preprint"
+  year: 2025
+  category: preprint
+  selected: true
+
+- title: "Deadlock-Free Hybrid RL-MAPF Framework for Zero-Shot Multi-Robot Navigation"
+  authors: "Haoyi Wang, Licheng Luo, Yiannis Kantaros, Bruno Sinopoli, Mingyu Cai"
+  venue: "arXiv preprint"
+  year: 2025
+  category: preprint
+
+- title: "Studying Pulmonary Fibrosis Due to Microbial Infection via Automated Microscopic Image Analysis"
+  authors: "Yajie Chen*, Henghui He*, Licheng Luo*, Kangyi Liu, Min Jiang, Shuping Li, Xiantao Zhang, Xin Yang†, Qian Liu†"
+  venue: "Frontiers in Microbiology"
+  year: 2023
+  category: journal
+  url: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1176339/full
+  links:
+    - label: paper
+      url: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1176339/full
+
+- title: "Policy Optimization in Robust Markov Decision Processes with Transition Gradient Theorem"
+  authors: "Licheng Luo"
+  venue: "Master's Thesis, University of Virginia"
+  year: 2024
+  category: thesis
+
+- title: "Reinforcement Learning with Non-human Feedback"
+  authors: "Licheng Luo, Kefan Song, Ye Ma"
+  venue: "ML Symposium of UVA"
+  year: 2024
+  category: other
+  url: /file/RL_Resume/RLHF.pdf
+  links:
+    - label: pdf
+      url: /file/RL_Resume/RLHF.pdf

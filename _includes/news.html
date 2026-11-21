@@ -1,0 +1,15 @@
+{% assign items = site.data.news %}
+{% if include.limit %}{% assign items = items | slice: 0, include.limit %}{% endif %}
+<ol class="timeline">
+{% for n in items %}
+  <li class="timeline-item{% if n.featured %} featured{% endif %}">
+    <div class="card">
+      <div class="card-head">
+        <span class="card-title">{{ n.title | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+        <time class="card-date" datetime="{{ n.date }}">{{ n.date | date: '%b %Y' }}</time>
+      </div>
+      {% if n.body %}<div class="card-body">{{ n.body | markdownify }}</div>{% endif %}
+    </div>
+  </li>
+{% endfor %}
+</ol>

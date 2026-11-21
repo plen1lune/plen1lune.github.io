@@ -1,0 +1,29 @@
+- date: 2026-06-01
+  featured: true
+  title: "Two papers accepted to IROS 2026"
+  body: >-
+    **Differentiable SpaTiaL** and **NL2SpaTiaL** will appear at IROS 2026. We are building SpaTiaL into a
+    general foundation for robots that understand, ground, and act on human intent, from natural language to
+    spatio-temporal structure to motion. See you in Pittsburgh!
+
+- date: 2026-04-01
+  title: "Oral talk at L4DC 2026"
+  body: >-
+    *Time-aware Motion Planning with Conformal Prediction* was selected for an oral presentation at L4DC 2026 in Los Angeles.
+
+- date: 2026-03-01
+  title: "Next round of SpaTiaL work"
+  body: >-
+    Cooking up the next round of **Differentiable SpaTiaL** and **NL2SpaTiaL**: robots that *understand*
+    spatio-temporal goals from natural language. Stay tuned.
+
+- date: 2025-01-06
+  title: "Started my PhD at UC Riverside"
+  body: >-
+    Officially joined the [REAL Lab](https://sites.google.com/view/ucr-real/home) with Prof. Mingyu Cai.
+    Loving the desert sun and the robots.
+
+- date: 2024-12-15
+  title: "Wrapped up my M.S. at UVA"
+  body: >-
+    Master's thesis on *Policy Optimization in Robust MDPs*. Onward!
