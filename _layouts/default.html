@@ -20,8 +20,9 @@
 </head>
 <body>
   <a class="skip" href="#main">Skip to content</a>
-  <header class="site-header">
-    <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{ site.owner.name }} <span class="zh">({{ site.owner.name_zh }})</span></a></h1>
+  <header class="site-rail">
+    <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{ site.owner.name }}<span class="zh">({{ site.owner.name_zh }})</span></a></h1>
+    <figure class="rail-photo"><img src="{{ '/images/licheng-cutout.png' | relative_url }}" alt="{{ site.owner.name }} in front of a whiteboard with two robot doodles and the word REAL" width="1000" height="958"></figure>
     <nav class="site-nav" aria-label="Main">
       {% assign current = page.url | replace: 'index.html', '' %}
       {% for item in site.nav %}
@@ -32,6 +33,13 @@
         {% endif %}
       {% endfor %}
     </nav>
+    <address class="rail-contact">
+      <a href="mailto:{{ site.owner.email }}">{{ site.owner.email | replace: '@', ' [at] ' }}</a><br>
+      Riverside, CA<br>
+      <a href="https://github.com/{{ site.owner.github }}" target="_blank" rel="noopener">github</a> ·
+      <a href="{{ site.owner.scholar }}" target="_blank" rel="noopener">scholar</a> ·
+      <a href="https://www.linkedin.com/in/{{ site.owner.linkedin }}" target="_blank" rel="noopener">linkedin</a>
+    </address>
   </header>
 
   <main id="main" class="site-main">
@@ -39,12 +47,6 @@
   </main>
 
   <footer class="site-footer">
-    <p>
-      <a href="mailto:{{ site.owner.email }}">email</a> ·
-      <a href="https://github.com/{{ site.owner.github }}" target="_blank" rel="noopener">github</a> ·
-      <a href="{{ site.owner.scholar }}" target="_blank" rel="noopener">scholar</a> ·
-      <a href="https://www.linkedin.com/in/{{ site.owner.linkedin }}" target="_blank" rel="noopener">linkedin</a>
-    </p>
     <p class="muted">© {{ site.time | date: '%Y' }} {{ site.owner.name }}. Last built {{ site.time | date: '%Y-%m-%d' }}.</p>
   </footer>
 </body>

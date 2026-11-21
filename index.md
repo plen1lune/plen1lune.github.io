@@ -3,8 +3,6 @@ title: Home
 permalink: /
 ---
 
-<figure class="inline-photo"><img src="/images/licheng-cutout.png" alt="Licheng Luo in front of a whiteboard with two robot doodles and the word REAL" width="1000" height="958"></figure>
-
 I am a second-year PhD student in **Mechanical Engineering** at the University of California, Riverside, advised by [Prof. Mingyu Cai](https://sites.google.com/view/ucr-real/home) in the REAL Lab. Before that I received my M.S. in Computer Science from the University of Virginia (advised by [Prof. Shangtong Zhang](https://shangtongzhang.github.io/)) and my B.Eng. in Electronic Information Engineering from Huazhong University of Science and Technology (advised by [Prof. Xin Yang](https://sites.google.com/view/xinyang/home)).
 {: .lead}
 
