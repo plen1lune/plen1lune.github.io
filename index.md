@@ -15,7 +15,7 @@ My research sits at the intersection of **robot learning, formal methods, and mo
 {: .sub}
 
 </div>
-<div class="avatar"><img src="/images/licheng-sketch.png" alt="Ink sketch portrait of Licheng Luo" width="720" height="747"></div>
+<div class="avatar"><img src="/images/licheng-cutout.png" alt="Licheng Luo in front of a whiteboard with two robot doodles and the word REAL" width="1000" height="957"></div>
 </div>
 
 ## Research interests
