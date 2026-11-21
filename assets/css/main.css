@@ -12,7 +12,7 @@
   --link: #151515;
   --mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
   --serif: "Instrument Serif", "Iowan Old Style", Georgia, "Times New Roman", serif;
-  --maxw: 780px;
+  --maxw: 800px;
   --gutter: 20px;
 }
 
@@ -83,11 +83,19 @@ code { font-family: inherit; background: #e9e9e2; padding: 0 .3em; }
 .lead { font-size: 17px; }
 .sub { color: var(--muted); }
 
-/* intro with cut-out photo */
-.intro { display: flex; gap: 32px; align-items: flex-start; margin-bottom: 1rem; }
-.intro-text { flex: 1 1 auto; min-width: 0; }
-.avatar { flex: 0 0 300px; width: 300px; margin-top: -6px; }
-.avatar img { display: block; width: 100%; height: auto; }
+/* hero: intro text with the cut-out photo standing on a rule */
+.hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 330px;
+  column-gap: 36px;
+  align-items: end;
+  border-bottom: 1px solid var(--line-strong);
+  margin-bottom: 1.4rem;
+}
+.hero-text { padding-bottom: 1.4rem; min-width: 0; }
+.hero-text p:last-child { margin-bottom: 0; }
+.hero-photo { margin: 0; align-self: end; }
+.hero-photo img { display: block; width: 100%; height: auto; margin-bottom: -1px; }
 
 /* ---------- timeline ---------- */
 .timeline { list-style: none; margin: 0 0 1.5rem; padding: 0 0 0 28px; position: relative; }
@@ -139,8 +147,10 @@ code { font-family: inherit; background: #e9e9e2; padding: 0 .3em; }
   .site-header { padding-top: 28px; }
   .site-title { font-size: 34px; }
   .site-nav { gap: 4px 18px; margin-bottom: 32px; font-size: 15px; }
-  .intro { flex-direction: column-reverse; gap: 12px; }
-  .avatar { flex-basis: auto; width: 240px; }
+  .hero { grid-template-columns: 1fr; }
+  .hero-photo { order: -1; width: 82%; max-width: 360px; margin: 0 auto; }
+  .hero-text { padding-top: 1.2rem; padding-bottom: 1.2rem; border-top: 1px solid var(--line-strong); }
+  .hero { border-bottom: 1px solid var(--line); }
   .card-head { flex-direction: column; gap: 2px; }
   .kv li { grid-template-columns: 1fr; gap: 0; }
   .timeline { padding-left: 22px; }
